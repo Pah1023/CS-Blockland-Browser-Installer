@@ -1,0 +1,10 @@
+C:\Users\Pah1023\source\repos\CSBlBrowserInstaller\bin\Release\CSBlBrowserInstaller.exe.config
+C:\Users\Pah1023\source\repos\CSBlBrowserInstaller\bin\Release\CSBlBrowserInstaller.exe
+C:\Users\Pah1023\source\repos\CSBlBrowserInstaller\bin\Release\CSBlBrowserInstaller.pdb
+C:\Users\Pah1023\source\repos\CSBlBrowserInstaller\obj\Release\CSBlBrowserInstaller.csprojAssemblyReference.cache
+C:\Users\Pah1023\source\repos\CSBlBrowserInstaller\obj\Release\CSBlBrowserInstaller.Form1.resources
+C:\Users\Pah1023\source\repos\CSBlBrowserInstaller\obj\Release\CSBlBrowserInstaller.Properties.Resources.resources
+C:\Users\Pah1023\source\repos\CSBlBrowserInstaller\obj\Release\CSBlBrowserInstaller.csproj.GenerateResource.cache
+C:\Users\Pah1023\source\repos\CSBlBrowserInstaller\obj\Release\CSBlBrowserInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Pah1023\source\repos\CSBlBrowserInstaller\obj\Release\CSBlBrowserInstaller.exe
+C:\Users\Pah1023\source\repos\CSBlBrowserInstaller\obj\Release\CSBlBrowserInstaller.pdb
